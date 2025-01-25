@@ -1,0 +1,7 @@
+gtts
+requests 
+spoonacular
+moviepy
+tqdm
+diffusers
+torch 
