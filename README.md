@@ -54,7 +54,6 @@ Expanding the recipe database for more diverse cuisines.
 If you’re passionate about AI, cooking, or simplifying everyday tasks, I’d love to hear your thoughts! Let’s connect and discuss how we can make cooking even more fun and accessible. 
 
 
-You can explore the full project on [Kaggle here](https://www.kaggle.com/code/basantyoussry/ai-powered-recipe-assistant).
 
-
+<a href="(https://www.kaggle.com/code/basantyoussry/ai-powered-recipe-assistant?scriptVersionId=223225101" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
